@@ -1,0 +1,22 @@
+body {
+	font-family: verdana;
+	padding: 40px 40px;
+	margin: 0 auto;
+	max-width: 900px;
+}
+
+.section {
+	margin-bottom: 60px;
+}
+
+h1 {
+	text-align: center;
+}
+
+.stocks {
+	float: left;
+}
+
+.options {
+	float: right;
+}
