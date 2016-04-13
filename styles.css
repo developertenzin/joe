@@ -19,4 +19,13 @@ h1 {
 
 .options {
 	float: right;
+
+}
+
+li > a {
+	text-decoration: none;
+}
+
+li > a:hover {
+	font-weight: bold;
 }
